@@ -1,0 +1,34 @@
+#pads{
+  display:flex;
+  width:330px;
+  flex-wrap: wrap;
+  background: pink;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.drum-pad{
+  height:80px;
+  width: 100px;
+  background: grey;
+  margin-right:10px;
+  margin-bottom: 10px;
+  line-height: 80px;
+  text-align: center;
+}
+
+#drum-machine {
+  display:inline-block;
+
+}
+
+body{
+  text-align: center;
+
+}
+
+#display{
+  background: grey;
+line-height: 50px;
+text-align: center;
+height: 50px;
+}
